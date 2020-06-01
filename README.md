@@ -1,4 +1,4 @@
-# template-repository
+# Unit Testing Jest
 
 ## Description
 
