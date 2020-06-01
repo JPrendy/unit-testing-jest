@@ -2,7 +2,7 @@
 
 ## Description
 
-Unit testing Codecov
+Unit testing using Jest and Codecov
 
 ## Contents
 
