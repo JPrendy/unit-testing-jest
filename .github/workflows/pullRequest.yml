@@ -21,11 +21,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12.0
-    - name: Install Jest
     - run: npm install --save-dev jest
-
-    - name: Run Jest Unit tests
     - run: npm run test
-
-    - name: Run Codecov
     - run: echo add codecov here
