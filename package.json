@@ -18,5 +18,9 @@
   "homepage": "https://github.com/JPrendy/unit-testing-jest#readme",
   "devDependencies": {
     "jest": "^26.0.1"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }
